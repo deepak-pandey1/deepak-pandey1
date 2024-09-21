@@ -1,3 +1,9 @@
+# 💫 About Me:
+🔭I'm currently working AIML Project<br>👯‍♂️I'm looking to collaborate on Open-source projects<br>🤝I'm looking for help with, Simplifying complex technical concepts related to full-stack development.<br>🌱I'm currently learning, Advanced concepts in Node.js and Express.js for backend development.<br>⚡Fun fact, I love traveling and watching movies or series during my free time.
+
+
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/the_deepak_pandey) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/deepak-pandey-193177324/) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/the_deepak_pandey) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/deepak-pandey786/) 
